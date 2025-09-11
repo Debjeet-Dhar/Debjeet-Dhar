@@ -1,7 +1,7 @@
 <!-- GitHub Profile Readme -->
 
 <h1 align="center">Hi 👋, I'm Debjeet Dhar</h1>
-<h3 align="center">🚀 Full Stack Developer | Web Enthusiast | Lifelong Learner</h3>
+<h3 align="left">🚀 Full Stack Developer | Web Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Explorer;MERN+Stack+Learner;Always+learning+new+tech" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 - 💻 Passionate about **modern web technologies**
-- 🛠 Building **Websites, Virtual Assistants & UI Projects**
+- 🛠 Building **Websites, Mordan & Responsive & UI Projects**
 - 📚 Currently exploring **Next.js & Full-stack apps**
 - ⚡ Love clean code, good UI/UX, and problem-solving
 
